@@ -1,0 +1,1136 @@
+schedule_code,schedule_name,priority_weight,start_date,end_date,depot,bus_type,route_type
+SP1S/A,Ring-1sh Ranasan Circle - Zundal Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+SP1S/B,Ring-1sh Ranasan Circle - Zundal Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+30/B,Maninagar - Karnavati Chowk-4 (New Narol),,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1512/E,Nandej-Barejadi Gam - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+143S/C,Kubadthal Gam - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+28S/D,Indiranagar Vibhag-2 (Pani ni Tanki) - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+28/E,Lambha Gam - Meghaninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+56/1/B,Gujarat University-Sardar Party Plot(S.P.RingRoad) ,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+70/C,Tapi Apartment - Chandlodiya Railway Station,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+70/D,Tapi Apartment - Chandlodiya Railway Station,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+88/G,Nikol Kathwada Ring Road - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+105/P,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+105/Q,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+34/5/H,Kalapinagar - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+22/1/A,Bareja Eye Hospital - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+72/BSh,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+89/3/I,Chandkheda(Sarthi Bunglows)- Amraiwadi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+33/O,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/P,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+39/3/B,But Bhavani Mandir - Bhakti Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/W,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/X,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/Y,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/Z,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+1513/I,Hatkeshwar Depo - Godhavi Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1513/J,Hatkeshwar Depo - Godhavi Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1514/B,Hatkeshwar Depo - Gujarat University,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1251/C,Dabhoda Gam - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+148/D,Naroda - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+123S/H,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+123S/I,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+123S/J,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+123S/K,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+202/E,Naroda - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+200/I,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+711M/L,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+711M/M,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+711M/N,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+711M/O,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+52/2/A,Sattadhar Society - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+52/2/B,Sattadhar Society - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+52/2/C,Sattadhar Society - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+72/O,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/P,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+150/A,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/B,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+22/1/B,Bareja Eye Hospital - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+160/A,Silver Oak University - Hatkeshwar Depo,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+150/V,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+65/2/A,Arvind Polycoat (Khatraj) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+65/2/B,Arvind Polycoat (Khatraj) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+65/2/C,Arvind Polycoat (Khatraj) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+65/2/D,Arvind Polycoat (Khatraj) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+22/A,Indiranagar Vibhag-2 (Pani ni Tanki) - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+22/B,Indiranagar Vibhag-2 (Pani ni Tanki) - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+35/K,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+35/L,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+35/M,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+40/2/E,Rajoda Patiya - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+77/I,Dr.Shyamaprasad Mukharjee Chowk - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+77/J,Dr.Shyamaprasad Mukharjee Chowk - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+74/1/A,Kali Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+85S/C,Chandkheda (Sarthi Bunglows) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+75/I,Chandkheda (Sarthi Bunglows) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+75/J,Chandkheda (Sarthi Bunglows) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+123/C,Sitarambapa Chowk (Gopal Chowk) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+82/C,Gayatri Vidyalay - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+79/H,Godrej Garden City - Badrinarayan Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+79/I,Godrej Garden City - Badrinarayan Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+33/K,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/L,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/M,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/N,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+1521/A,Gatrad Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+1521/B,Gatrad Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+40/2/A,Rajoda Patiya - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+40/2/B,Rajoda Patiya - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+40/2/C,Rajoda Patiya - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+40/2/D,Rajoda Patiya - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+33/A,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/B,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/C,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/D,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/E,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/F,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/G,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/H,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/I,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+33/J,S.P.Ring Road (Odhav Gidc) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+64/1/A,Jaspur Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+51R/A,Thol Gam (Saradar Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+51R/B,Thol Gam (Saradar Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+49/A,Godhavi Gam - Adinathnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+49/B,Godhavi Gam - Adinathnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+1441/A,Madhav Homes - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+1441/B,Madhav Homes - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+58/A,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/B,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/C,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/D,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+123S/A,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+123S/B,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+142S/A,Sarangpur - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142S/B,Sarangpur - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142S/C,Sarangpur - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+13/1/N,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+711M/A,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+711M/B,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+74/1/B,Kali Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+711M/C,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+711M/D,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+711M/E,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+711M/F,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+711M/G,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+711M/H,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+711M/I,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+711M/J,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+711M/K,Moti Bhoyan Chokdi - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+65/3/A,Santej Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+65/3/B,Santej Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+65/3/C,Santej Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+65/3/D,Santej Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+49/C,Godhavi Gam - Adinathnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+49/D,Godhavi Gam - Adinathnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+49/E,Godhavi Gam - Adinathnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+49/F,Godhavi Gam - Adinathnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+49/G,Godhavi Gam - Adinathnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+50/A,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+50/B,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Juna Vadaj Depot,A,AMTS
+50/C,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+50/D,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+50/E,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+50/F,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Juna Vadaj Depot,A,AMTS
+75/A,Chandkheda (Sarthi Bunglows) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+75/B,Chandkheda (Sarthi Bunglows) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+75/C,Chandkheda (Sarthi Bunglows) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+31/A,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+51R/C,Thol Gam (Saradar Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+77/A,Dr.Shyamaprasad Mukharjee Chowk - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+77/B,Dr.Shyamaprasad Mukharjee Chowk - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+136/I,Sattadhar Society - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/B,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/C,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/D,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/E,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+77/C,Dr.Shyamaprasad Mukharjee Chowk - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+51R/D,Thol Gam (Saradar Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+51R/E,Thol Gam (Saradar Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+51R/F,Thol Gam (Saradar Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+51R/G,Thol Gam (Saradar Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+72/A,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/B,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/C,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/D,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+35/A,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+35/B,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+35/C,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+77/D,Dr.Shyamaprasad Mukharjee Chowk - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+77/E,Dr.Shyamaprasad Mukharjee Chowk - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+77/F,Dr.Shyamaprasad Mukharjee Chowk - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+77/G,Dr.Shyamaprasad Mukharjee Chowk - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+77/H,Dr.Shyamaprasad Mukharjee Chowk - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+72/E,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/F,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/G,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/H,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/I,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/J,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/K,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/L,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/M,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+72/N,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+35/D,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+35/E,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+160/B,Silver Oak University - Hatkeshwar Depo,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+160/C,Silver Oak University - Hatkeshwar Depo,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+160/D,Silver Oak University - Hatkeshwar Depo,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+160/E,Silver Oak University - Hatkeshwar Depo,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+160/F,Silver Oak University - Hatkeshwar Depo,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+31/F,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/G,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+35/F,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+35/G,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+35/H,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+35/I,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+35/J,Rajoda Patiya - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+31/H,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+31/I,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+31/J,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/K,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/L,Meghaninagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+331S/A,Lal Darwaja - Vaishali Township,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+150/C,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+79/A,Godrej Garden City - Badrinarayan Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+79/B,Godrej Garden City - Badrinarayan Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+79/C,Godrej Garden City - Badrinarayan Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+105/A,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+109/A,Amba Township Sector-5(Trimandir) - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+22/C,Indiranagar Vibhag-2 (Pani ni Tanki) - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+22/D,Indiranagar Vibhag-2 (Pani ni Tanki) - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+22/E,Indiranagar Vibhag-2 (Pani ni Tanki) - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+22/F,Indiranagar Vibhag-2 (Pani ni Tanki) - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+22/G,Indiranagar Vibhag-2 (Pani ni Tanki) - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+22/H,Indiranagar Vibhag-2 (Pani ni Tanki) - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+22/I,Indiranagar Vibhag-2 (Pani ni Tanki) - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+22/J,Indiranagar Vibhag-2 (Pani ni Tanki) - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+109/B,Amba Township Sector-5(Trimandir) - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+60S/A,Bopal Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+50/G,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+50/H,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Juna Vadaj Depot,A,AMTS
+50/I,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+50/J,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Juna Vadaj Depot,A,AMTS
+50/K,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+50/L,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Juna Vadaj Depot,A,AMTS
+50/M,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+50/N,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Juna Vadaj Depot,A,AMTS
+50/O,Meghaninagar - Ghuma Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+22/1/C,Bareja Eye Hospital - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+22/1/D,Bareja Eye Hospital - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+22/1/E,Bareja Eye Hospital - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+22/1/F,Bareja Eye Hospital - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+22/1/G,Bareja Eye Hospital - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+22/1/H,Bareja Eye Hospital - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+22/1/I,Bareja Eye Hospital - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+22/1/J,Bareja Eye Hospital - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+52/2/D,Sattadhar Society - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+52/2/E,Sattadhar Society - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+52/2/F,Sattadhar Society - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+52/2/G,Sattadhar Society - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+52/2/H,Sattadhar Society - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+52/2/I,Sattadhar Society - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+52/2/J,Sattadhar Society - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+150/D,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+1441/C,Madhav Homes - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+150/E,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/F,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+79/D,Godrej Garden City - Badrinarayan Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+79/E,Godrej Garden City - Badrinarayan Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+79/F,Godrej Garden City - Badrinarayan Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+79/G,Godrej Garden City - Badrinarayan Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+1441/D,Madhav Homes - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+1441/E,Madhav Homes - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+1441/F,Madhav Homes - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+123/A,Sitarambapa Chowk (Gopal Chowk) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+123/B,Sitarambapa Chowk (Gopal Chowk) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+51S/A,Shilaj Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+51S/B,Shilaj Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+51S/C,Shilaj Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+51S/D,Shilaj Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+51S/E,Shilaj Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+51S/F,Shilaj Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+51S/G,Shilaj Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+51S/H,Shilaj Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+116/A,Dani Limda Gam - Civil Hospital,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+116/B,Dani Limda Gam - Civil Hospital,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+150/G,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/H,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/I,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/J,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/K,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/L,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/M,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/N,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/O,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/P,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/Q,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/R,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/S,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/T,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+150/U,Chinubhainagar - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+105/B,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/C,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/D,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/E,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/F,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/G,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/H,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/I,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/J,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/K,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/L,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/M,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/N,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+105/O,Naroda Industrial Township(MuthiyaGam)-Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+74/1/C,Kali Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+74/1/D,Kali Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+142S/D,Sarangpur - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142S/E,Sarangpur - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142S/F,Sarangpur - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142S/G,Sarangpur - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142S/H,Sarangpur - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+58/E,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/F,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/G,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/H,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/I,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/J,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/K,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/L,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/M,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/N,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/O,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+58/P,Kush Society (New Naroda) - Thaltej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+123S/C,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+123S/D,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+123S/E,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+123S/F,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+123S/G,Sitarambapa Chowk (Gopal Chowk) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+65/2/E,Arvind Polycoat (Khatraj) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+75/D,Chandkheda (Sarthi Bunglows) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+75/E,Chandkheda (Sarthi Bunglows) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+75/F,Chandkheda (Sarthi Bunglows) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+75/G,Chandkheda (Sarthi Bunglows) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+75/H,Chandkheda (Sarthi Bunglows) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+400/A,Lal Darwaja - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+400/B,Lal Darwaja - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+400/C,Lal Darwaja - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+400/D,Lal Darwaja - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+400/E,Lal Darwaja - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+500/A,Lal Darwaja - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+500/B,Lal Darwaja - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+500/C,Lal Darwaja - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+500/D,Lal Darwaja - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+500/E,Lal Darwaja - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+401/A,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/B,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+401/C,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/D,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+401/E,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/F,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+147/A,Ranchodpura Cross Road - Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+147/B,Ranchodpura Cross Road - Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+SP-1/A,Ring-1 Aslali Circle - Ranasan Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+SP-1/B,Ring-1 Aslali Circle - Ranasan Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+SP-1/C,Ring-1 Aslali Circle - Ranasan Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+SP-1/D,Ring-1 Aslali Circle - Ranasan Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+SP-1/E,Ring-1 Aslali Circle - Ranasan Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+SP-1/F,Ring-1 Aslali Circle - Ranasan Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+SP-1/G,Ring-1 Aslali Circle - Ranasan Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+52/A,Ahavadiya Talav(New Ranip) - Thol Gam(Sardar Chowk),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+52/B,Ahavadiya Talav(New Ranip) - Thol Gam(Sardar Chowk),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+152S/B,Dhamatwan Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+501/A,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+501/B,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+501/C,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+14S/E,Mahalakshmi Talav (Vatva) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+137M/A,Lapakaman Gam - Manmohan Park,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+137M/B,Lapakaman Gam - Manmohan Park,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+14S/A,Mahalakshmi Talav (Vatva) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+501/D,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+501/E,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+501/F,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+501/G,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+501/H,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+501/I,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+501/J,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+501/K,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+501/L,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+501/M,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+501/N,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+501/O,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+501/P,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+501/Q,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+501/R,Sanathal CrossRoad - PrabhahanumanMandir (Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+143S/A,Kubadthal Gam - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+137M/C,Lapakaman Gam - Manmohan Park,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+137M/D,Lapakaman Gam - Manmohan Park,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+143S/B,Kubadthal Gam - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+503/A,Chandkheda Gam - Prabhahanuman Mandir(Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+503/B,Chandkheda Gam - Prabhahanuman Mandir(Trimandir),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+14S/B,Mahalakshmi Talav (Vatva) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+14S/C,Mahalakshmi Talav (Vatva) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+14S/D,Mahalakshmi Talav (Vatva) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+1304/E,Manmohan Park - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+96/F,Vatva Railway Colony - Civil Hospital,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+1112/A,Someshwar Mahadev - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+1112/B,Someshwar Mahadev - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+31/5/N,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+31/5/O,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+31/5/P,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+31/5/Q,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+31/5/R,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+72/ASh,Godrejcity Phase-1 - Sahyadri Bunglows,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+1481/A,Sarangpur - Bakrol-Bujrang Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+144/A,Gujarat University - Arbudanagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+144/B,Gujarat University - Arbudanagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+144/C,Gujarat University - Arbudanagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+49/2/F,Gujarat University - Nirant Chokdi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+1461/J,Ranip Gam - Chinubhainagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+66/3/O,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/P,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+56/F,Iskon Mandir - Sitarambapa Chowk(Gopal Chowk),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+56/G,Iskon Mandir - Sitarambapa Chowk(Gopal Chowk),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+56/H,Iskon Mandir - Sitarambapa Chowk(Gopal Chowk),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+125S/B,Vehlal Gam - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+131S/B,Lal Darwaja - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+130S/H,Lambha Gam - Naroda Industrial Township(MuthiyaGam),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+130S/I,Lambha Gam - Naroda Industrial Township(MuthiyaGam),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+142/I,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142/J,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142/K,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142/L,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+13/1/L,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+13/1/M,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+13/1/O,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+17/A,Meghaninagar - Karnavati Chowk-4 (New Narol),,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+1512/A,Nandej-Barejadi Gam - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1512/B,Nandej-Barejadi Gam - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1512/C,Nandej-Barejadi Gam - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1512/D,Nandej-Barejadi Gam - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+96/A,Vatva Railway Colony - Civil Hospital,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+96/B,Vatva Railway Colony - Civil Hospital,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+96/C,Vatva Railway Colony - Civil Hospital,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+96/D,Vatva Railway Colony - Civil Hospital,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+96/E,Vatva Railway Colony - Civil Hospital,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+13/1/A,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+13/1/B,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+13/1/C,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+13/1/D,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+1461/A,Ranip Gam - Chinubhainagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+1461/B,Ranip Gam - Chinubhainagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+1461/C,Ranip Gam - Chinubhainagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+13/1/E,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+13/1/F,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+13/1/G,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+13/1/H,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+13/1/I,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+13/1/J,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+13/1/K,Ranip Gam - Prakash Vidhyalay (Isanpur),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+1461/D,Ranip Gam - Chinubhainagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+1461/E,Ranip Gam - Chinubhainagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+1461/F,Ranip Gam - Chinubhainagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+1461/G,Ranip Gam - Chinubhainagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+1461/H,Ranip Gam - Chinubhainagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+1461/I,Ranip Gam - Chinubhainagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+66/3/A,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/B,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+17/B,Meghaninagar - Karnavati Chowk-4 (New Narol),,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+1481/B,Sarangpur - Bakrol-Bujrang Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+142/A,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142/B,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+131S/A,Lal Darwaja - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+66/3/C,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/D,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+135/G,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+130S/A,Lambha Gam - Naroda Industrial Township(MuthiyaGam),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+130S/B,Lambha Gam - Naroda Industrial Township(MuthiyaGam),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+130S/C,Lambha Gam - Naroda Industrial Township(MuthiyaGam),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+130S/D,Lambha Gam - Naroda Industrial Township(MuthiyaGam),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+130S/E,Lambha Gam - Naroda Industrial Township(MuthiyaGam),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+130S/F,Lambha Gam - Naroda Industrial Township(MuthiyaGam),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+130S/G,Lambha Gam - Naroda Industrial Township(MuthiyaGam),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+142/C,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142/D,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142/E,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+151S/A,Lal Darwaja - Vivekanandnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+142/F,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+142/G,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+152/A,Wanch Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+152/B,Wanch Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+152/C,Wanch Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+152/D,Wanch Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+663S/S,Moti Bhoyan Chokdi - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+151S/B,Lal Darwaja - Vivekanandnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+151S/C,Lal Darwaja - Vivekanandnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+142/H,Gujarat University - Vastral Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+66/3/E,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/F,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/G,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/H,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/I,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/J,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/K,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/L,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/M,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+66/3/N,Arvind Polycoat (Khatraj) - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+152S/A,Dhamatwan Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+151/A,Vivekanandnagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+151/B,Vivekanandnagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+151/C,Vivekanandnagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+151/D,Vivekanandnagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+151/E,Vivekanandnagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+151/F,Vivekanandnagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+151/G,Vivekanandnagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+151/H,Vivekanandnagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1472/A,Chandlodiya Railway Station - Swami Vivekanand Chowk(Vastral),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+138/A,Gujarat University - Bapunagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+143/A,Pasunj Gam - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1466/A,Arbudanagar - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+31/5/A,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+43/1/A,Prahladnagar Cross Road - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+89/2/D,Ramol Gam - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+34/5/A,Kalapinagar - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+34/5/B,Kalapinagar - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+34/5/C,Kalapinagar - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+34/5/D,Kalapinagar - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+136/H,Sattadhar Society - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+23/A,Lambha Gam - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+82/B,Gayatri Vidyalay - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+88/E,Nikol Kathwada Ring Road - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+88/F,Nikol Kathwada Ring Road - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+89/3/F,Chandkheda(Sarthi Bunglows)- Amraiwadi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+89/3/G,Chandkheda(Sarthi Bunglows)- Amraiwadi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+89/3/H,Chandkheda(Sarthi Bunglows)- Amraiwadi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+90S/A,Krushnanagar - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+90S/B,Krushnanagar - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+127/I,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+127/J,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+14/B,Nandej-Barejadi Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+136/J,Sattadhar Society - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/5/B,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+31/5/C,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+128/A,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/B,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/C,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/D,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+74/A,Andh Kalyan Kendra (New Ranip)-Vatva Railway Colony,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+74/B,Andh Kalyan Kendra (New Ranip)-Vatva Railway Colony,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+74/C,Andh Kalyan Kendra (New Ranip)-Vatva Railway Colony,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+74/D,Andh Kalyan Kendra (New Ranip)-Vatva Railway Colony,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+128/E,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/F,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/G,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/H,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/I,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/J,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/K,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/L,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/M,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/N,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/O,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+128/P,Naroda Industrial Township (MuthiyaGam) - Nigam Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+31/5/D,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+31/5/E,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+31/5/F,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/5/G,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/5/H,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/5/I,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/5/J,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+31/5/K,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/5/L,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/5/M,Madhavnagar (Sanand) - Sardarbag (Lal Darwaja),,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+64/2/A,Sattadhar Society - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+28S/A,Indiranagar Vibhag-2 (Pani ni Tanki) - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+28S/B,Indiranagar Vibhag-2 (Pani ni Tanki) - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+148/A,Naroda - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+28S/C,Indiranagar Vibhag-2 (Pani ni Tanki) - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+49/2/A,Gujarat University - Nirant Chokdi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+49/2/B,Gujarat University - Nirant Chokdi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+49/2/C,Gujarat University - Nirant Chokdi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+49/2/D,Gujarat University - Nirant Chokdi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+49/2/E,Gujarat University - Nirant Chokdi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot,A,AMTS
+148/B,Naroda - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+148/C,Naroda - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+49S/A,Krishna Shelbi Hospital (Ghuma) - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+1513/G,Hatkeshwar Depo - Godhavi Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot 1-ARR,A,AMTS
+1513/H,Hatkeshwar Depo - Godhavi Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot 1-ARR,A,AMTS
+401/G,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/H,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+34/3/A,Adani Vidyavihar - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+65/1/A,Mangalmurti Apartment - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+64/E,Gujarat High Court - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+64/F,Gujarat High Court - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+64/G,Gujarat High Court - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+40/3/B,Gayatri Vidyalay - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+40/3/C,Gayatri Vidyalay - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+40/3/D,Gayatri Vidyalay - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+663S/T,Moti Bhoyan Chokdi - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+663S/U,Moti Bhoyan Chokdi - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+37sh/A,Bapunagar - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+20/A,Hatkeshwar Terminus - Dharmnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+1381/A,Riddhi Siddhi Bunglows (Sanand) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+1381/B,Riddhi Siddhi Bunglows (Sanand) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+1381/C,Riddhi Siddhi Bunglows (Sanand) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+1381/D,Riddhi Siddhi Bunglows (Sanand) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+40/1/A,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/1/B,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/1/C,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/1/D,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/1/E,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/1/K,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/1/F,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/1/G,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/1/H,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/1/I,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/1/J,Vinobabhavenagar - Iskon Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+125S/A,Vehlal Gam - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+39/3/A,But Bhavani Mandir - Bhakti Circle,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+56/1/A,Gujarat University-Sardar Party Plot(S.P.RingRoad) ,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+1171/C,Miroli Gam - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+1171/A,Miroli Gam - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1171/B,Miroli Gam - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+401/I,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/J,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+401/K,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/L,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+401/M,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/N,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+401/O,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/P,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+401/Q,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/R,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+401/S,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/T,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+401/U,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+401/V,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+401/W,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+401/X,Chandkheda (Sarthi Bunglows) - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Nava Vadaj Depot - TCM,A,AMTS
+112/A,Kubernagar Bangla - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+32/A,Sahyadri Bunglows - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+32/B,Sahyadri Bunglows - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+32/C,Sahyadri Bunglows - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+136/A,Sattadhar Society - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+136/B,Sattadhar Society - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+69S/A,S.P.RingRoad(OdvGid)-Bhadaj Circle (S.P.Ring Road),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+69S/B,S.P.RingRoad(OdvGid)-Bhadaj Circle (S.P.Ring Road),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+69S/C,S.P.RingRoad(OdvGid)-Bhadaj Circle (S.P.Ring Road),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+69S/D,S.P.RingRoad(OdvGid)-Bhadaj Circle (S.P.Ring Road),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+663S/Q,Moti Bhoyan Chokdi - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+663S/R,Moti Bhoyan Chokdi - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+1513/A,Hatkeshwar Depo - Godhavi Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot 1-ARR,A,AMTS
+136/C,Sattadhar Society - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+136/D,Sattadhar Society - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+89/3/A,Chandkheda(Sarthi Bunglows)- Amraiwadi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+89/3/B,Chandkheda(Sarthi Bunglows)- Amraiwadi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+89/3/C,Chandkheda(Sarthi Bunglows)- Amraiwadi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+89/3/D,Chandkheda(Sarthi Bunglows)- Amraiwadi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+89/3/E,Chandkheda(Sarthi Bunglows)- Amraiwadi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+1304/A,Manmohan Park - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+136/E,Sattadhar Society - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+136/F,Sattadhar Society - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+136/G,Sattadhar Society - G.E.B (Naroda),,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+90S/C,Krushnanagar - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+90S/D,Krushnanagar - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+90S/E,Krushnanagar - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+90S/F,Krushnanagar - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+137B/A,Gujarat High Court - Bapunagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+137B/B,Gujarat High Court - Bapunagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+300/A,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+300/B,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+300/C,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+300/D,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+300/E,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+300/F,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+300/G,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+300/H,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+200/A,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+200/B,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+200/C,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+200/D,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+200/E,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+200/F,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+200/G,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+200/H,Maninagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+85S/A,Chandkheda (Sarthi Bunglows) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+85S/B,Chandkheda (Sarthi Bunglows) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+137B/C,Gujarat High Court - Bapunagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+137B/D,Gujarat High Court - Bapunagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+137B/E,Gujarat High Court - Bapunagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Shrinath Depot - ADM,A,AMTS
+1513/B,Hatkeshwar Depo - Godhavi Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot 1-ARR,A,AMTS
+1304/B,Manmohan Park - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+1304/C,Manmohan Park - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+1304/D,Manmohan Park - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+89/2/A,Ramol Gam - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+89/2/B,Ramol Gam - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+89/2/C,Ramol Gam - Tragad Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+16/A,Someshwar Mahadev - Vatva Railway Colony,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+16/B,Someshwar Mahadev - Vatva Railway Colony,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+16/C,Someshwar Mahadev - Vatva Railway Colony,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+16/D,Someshwar Mahadev - Vatva Railway Colony,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+16/E,Someshwar Mahadev - Vatva Railway Colony,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+16/F,Someshwar Mahadev - Vatva Railway Colony,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+88/A,Nikol Kathwada Ring Road - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+88/B,Nikol Kathwada Ring Road - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+88/C,Nikol Kathwada Ring Road - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+88/D,Nikol Kathwada Ring Road - Ranip Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+F4/A,Chosar Gam - Isanpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1251/A,Dabhoda Gam - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1251/B,Dabhoda Gam - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+127/A,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+127/B,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+127/C,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+127/D,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+127/E,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+127/F,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+127/G,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+127/H,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+63/A,Gujarat High Court - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+1513/C,Hatkeshwar Depo - Godhavi Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot 1-ARR,A,AMTS
+1513/D,Hatkeshwar Depo - Godhavi Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot 1-ARR,A,AMTS
+1513/E,Hatkeshwar Depo - Godhavi Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot 1-ARR,A,AMTS
+1513/F,Hatkeshwar Depo - Godhavi Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot 1-ARR,A,AMTS
+18S/A,Vatva Railway Station - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+40/3/A,Gayatri Vidyalay - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+82/A,Gayatri Vidyalay - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+671S/A,Sattadhar Society - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+135/A,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+135/J,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+135/B,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+135/C,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+135/D,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+135/E,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+135/F,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+135/H,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+135/I,Bhakti Circle - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+51Ri/E,Rancharda Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+46/A,Kalupur Terminus - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+47/A,Kalupur Terminus - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+69/A,OganajCircle(S.P.RingRoad)-S.P.RingRoad(OdhavGidc),,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+30/A,Maninagar - Karnavati Chowk-4 (New Narol),,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+37/4/A,But Bhavani Mandir - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+64/3/A,Chandlodiya Railway Station - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+64/A,Gujarat High Court - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+64/B,Gujarat High Court - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+64/C,Gujarat High Court - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+64/D,Gujarat High Court - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+70/A,Tapi Apartment - Chandlodiya Railway Station,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+70/B,Tapi Apartment - Chandlodiya Railway Station,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot 1-ARM,A,AMTS
+28/A,Lambha Gam - Meghaninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+28/B,Lambha Gam - Meghaninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+28/C,Lambha Gam - Meghaninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+28/D,Lambha Gam - Meghaninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+70/1/A,Meghaninagar - Gujarat High Court,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+144/D,Gujarat University - Arbudanagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+83/A,Sabarmati 'D' Cabin - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+83/B,Sabarmati 'D' Cabin - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+83/C,Sabarmati 'D' Cabin - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+65/A,Sola Bhagwat Vidyapith - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+1514/A,Hatkeshwar Depo - Gujarat University,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+56/A,Iskon Mandir - Sitarambapa Chowk(Gopal Chowk),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+56/B,Iskon Mandir - Sitarambapa Chowk(Gopal Chowk),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+56/C,Iskon Mandir - Sitarambapa Chowk(Gopal Chowk),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+56/D,Iskon Mandir - Sitarambapa Chowk(Gopal Chowk),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+56/E,Iskon Mandir - Sitarambapa Chowk(Gopal Chowk),,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+144/E,Gujarat University - Arbudanagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+144/F,Gujarat University - Arbudanagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+144/G,Gujarat University - Arbudanagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+144/H,Gujarat University - Arbudanagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+144/I,Gujarat University - Arbudanagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot - ACM,A,AMTS
+34/4/A,But Bhavani Mandir - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+34/4/B,But Bhavani Mandir - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+34/4/C,But Bhavani Mandir - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+34/4/D,But Bhavani Mandir - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+34/4/E,But Bhavani Mandir - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+34/4/F,But Bhavani Mandir - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+34/4/G,But Bhavani Mandir - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Ranip Depot-SMD,A,AMTS
+204/B,Vasna - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+204/A,Vasna - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+205/A,Vasna - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+205/B,Vasna - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+126/A,Sardarnagar - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+126/B,Sardarnagar - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+1231/A,Parshwanath Township - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+66/4/A,Arvind Polycoat (Khatraj) - Kush Society,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+1231/B,Parshwanath Township - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+202/A,Naroda - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+202/B,Naroda - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+202/C,Naroda - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+202/D,Naroda - Vasna,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+125/A,Vehlal Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+125/B,Vehlal Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+125/C,Vehlal Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+800/A,Nava Vadaj - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+800/B,Nava Vadaj - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+900/A,Nava Vadaj - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+900/B,Nava Vadaj - Nava Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+15/3/A,Maninagar - Nenpur Chokdi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+34/5/E,Kalapinagar - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+34/5/F,Kalapinagar - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+34/5/G,Kalapinagar - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+33/1/A,Meghaninagar - Vaishali Township,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+14/1/A,Vatva Railway Crossing - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+45/A,Jodhpur Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+36/1/A,Sarkhej Roza - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+15/3/B,Maninagar - Nenpur Chokdi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+15/3/C,Maninagar - Nenpur Chokdi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+314S/A,Bakrol Gam - Paldi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+31/1/A,Lal Darwaja - Aradhana Residency(Fatehwadi Kenal),,21/01/2023 00:00:00,20/01/2028 23:59:59,Lal Darwaja Depot,A,AMTS
+31/4/A,Kasindra Gam - Paldi,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+107/A,Sarangpur - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+71/1/A,Lal Darwaja - Vamaj Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot,A,AMTS
+1371/A,Gujarat High Court - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+1601/A,Adinathnagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Marwadi Depot,A,AMTS
+38/1/A,Krushnanagar - Vaishali Township,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+66/A,Shilaj Gam - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+F5/A,Rasraj Jackpot - Shardaben Hospital,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+42sh/A,Lal Darwaja - Ghodasar Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+15/1/A,Vinobabhavenagar - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+66/1/A,Shilaj Gam - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+63/1/A,Lilapur Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+70/2/A,Sherisa Gam - Vadaj,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+1302/A,Kamod Gam - Naroda,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+137K/A,Chandlodiya Talav - Kalupur Terminus,,21/01/2023 00:00:00,20/01/2028 23:59:59,Juna Vadaj Depot,A,AMTS
+84/A,Chandkheda (Sarthi Bunglows) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+14/A,Nandej-Barejadi Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Paldi Depot,A,AMTS
+15S/A,Maninagar - Vivekanandnagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+30/2/A,Vatva Railway Crossing - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+30/3/A,Dev Residency - Dani Limda Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+31S/A,Lal Darwaja - Sarkhej Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+393S/A,Kalupur Terminus - But Bhavani Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+40/A,Lapakaman Gam - Vaishali Township,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+43/A,Parijat Bunglows - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+44/4/A,Arohi Homes (South Bopal) - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+45/1/A,Mumatpura Gam - Lal Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+49/1/A,Jodhpur Gam - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Memco Depot-SMT,A,AMTS
+89/1/A,Amba Township(Trimandir) - Manmohan Park,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+89/1/B,Amba Township(Trimandir) - Manmohan Park,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+89/1/C,Amba Township(Trimandir) - Manmohan Park,,21/01/2023 00:00:00,20/01/2028 23:59:59,Acher Depot-MAM,A,AMTS
+106/A,Sarangpur - Sarangpur,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+117/A,Paldi-Kankaj Gam - Kalapinagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Bhairavnath Depot-SAM,A,AMTS
+124/A,Engg./B.Ed.College (Vahelal) - Maninagar,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+150S/A,Sarkhej Gam - Sarangpur Darwaja,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+3S/C,Bhadrakali Mandir - Bhadrakali Mandir,,21/01/2023 00:00:00,20/01/2028 23:59:59,Sarangpur Depot,A,AMTS
+401S/A,Vasna - Chandkheda Gam,,21/01/2023 00:00:00,20/01/2028 23:59:59,Jamalpur Depot,A,AMTS
+3/M01,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+3/M02,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+3/M08,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+3/M07,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+3/M06,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+3/M05,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+3/M04,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+3/M03,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+3/R01,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+3/R02,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+3/R03,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+3/R04,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+3/R05,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+3/R06,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+3/R07,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+3/R08,R.T.O Circle - Maninagar ,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/LT01,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+4/LT02,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+15/AI02,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+4/LT03,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+4/LT04,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+14/KN01,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+4/LT05,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+4/LT06,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+14/NK13,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+4/TL01,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL02,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL03,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL04,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL05,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL06,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL07,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL08,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL09,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL10,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL11,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL12,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL13,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL14,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL15,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL16,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL17,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+4/TL18,Trimandir - L.D.Engineering College,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+15/IA03,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+16/NU02,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+14/KN02,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+14/NK14,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+16/NU04,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+15/AI01,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+14/NK01,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+15/IR01,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+14/NK12,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+14/NK02,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+14/NK11,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+14/NK03,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+15/IA01,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+15/IR02,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+14/NK10,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+14/NK04,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+16/NU03,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+16/NU05,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+14/NK09,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+14/NK05,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+15/IA02,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+15/IR03,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+14/NK08,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+14/NK06,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+17/NS05,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+17/NS04,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+14/NK07,Sanand Circle - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+15/RI01,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+16/NU06,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+15/RI02,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+15/RI03,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+16/NU07,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+15/RI04,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+17/NS03,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+15/RI05,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+16/UN01,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+15/RI06,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+15/RI07,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+17/NS06,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+15/RI08,Airport - ISKCON,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+16/NU01,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+16/UN02,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+17/NS02,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+16/UN03,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+16/UN04,Nehrunagar - Sanand Circle,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+17/NS01,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+17/NS07,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+17/SN01,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+17/SN02,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+17/SN03,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+17/SN04,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+17/SN05,Nehrunagar - South Bopal,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+1/GM01,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+2/BO01,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+1/GM02,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+5/HV01,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+1/GM03,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+2/BO02,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+1/GM04,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/GM05,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+7/NZ01,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+1/GM06,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+2/BO03,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+1/GM07,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+5/HV02,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+1/GM08,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+2/BO04,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+1/GM09,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/GM10,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+6/WN04,Narol - Naroda S.T. Workshop,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+1/GM11,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/GM12,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG01,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG02,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG03,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG04,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG05,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG06,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG07,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG08,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG09,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG10,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG11,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+1/MG12,Maninagar - Ghuma Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+2/BO05,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+5/HV03,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+2/BO06,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+7/NZ04,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/BO07,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+5/HV04,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+2/BO08,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+6/WN03,Narol - Naroda S.T. Workshop,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+2/OB01,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+6/NW02,Narol - Naroda S.T. Workshop,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB02,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+5/HV08,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+2/OB03,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB04,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+6/WN01,Narol - Naroda S.T. Workshop,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+2/OB05,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+5/HV07,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+2/OB06,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB07,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+7/NZ03,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB08,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB09,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB10,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+5/HV06,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+2/OB11,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB12,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+6/WN02,Narol - Naroda S.T. Workshop,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB13,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+5/HV05,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+2/OB14,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB15,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB16,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB17,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB18,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB19,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+2/OB20,Bhadaj Circle - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+5/HV09,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+7/NZ02,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+5/HV10,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+6/NW01,Narol - Naroda S.T. Workshop,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+5/HV11,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+5/HV12,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+5/HV13,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+5/HV14,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+5/HV15,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+5/VH01,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+5/VH02,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+5/VH03,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+5/VH04,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+5/VH05,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+5/VH06,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+5/VH07,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+5/VH08,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+5/VH09,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+5/VH10,Vasna - Hanspura Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+7/NZ05,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+7/NZ06,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+7/NZ07,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+7/NZ08,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+7/ZN01,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN02,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN03,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN04,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN05,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN06,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN07,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN08,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN09,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN10,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN11,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN12,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+7/ZN13,Zundal Circle - Narol,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+11/LO01,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+11/LO02,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+11/LO03,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+11/OL01,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+11/OL02,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+11/OL03,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+11/OL04,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+11/OL05,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+11/OL06,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+11/OL07,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+11/OL08,L.D.Engineering College - Odhav Ring Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Odhav Depot,B,BRTS
+8/IN01,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+8/IN02,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+8/IN03,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+8/IN04,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+8/IN05,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+8/IN06,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+8/IN07,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+8/IN08,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+8/NI01,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI02,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI03,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI04,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI05,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI06,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI07,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI08,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI09,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI10,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI11,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI12,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI13,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI14,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI15,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI16,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI17,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI18,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+8/NI19,ISKCON - Naroda Gam,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+18/AM05,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+18/AM03,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+18/AM02,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+18/AM06,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+18/AM01,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+18/MA01,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+18/AM04,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+18/MA02,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+18/MA03,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+18/MA04,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+18/MA05,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+18/MA06,Maninagar - Airport,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+12/CR04,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR05,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR06,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR03,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR02,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR01,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR07,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR08,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR09,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR10,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR11,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR12,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR13,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR14,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR15,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR16,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR17,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR18,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR19,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR20,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR21,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/CR22,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Vastral Depot_VT,B,BRTS
+12/RC01,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+12/RC02,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+12/RC03,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+12/RC04,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+12/RC05,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+12/RC06,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+12/RC07,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+12/RC08,R.T.O Circle - CTM Cross Road,,15/02/2023 00:00:00,15/02/2024 23:59:59,Zundal Depot,B,BRTS
+9/SM02,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM01,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/MS09,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+9/MS08,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+9/MS07,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+9/MS06,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+9/MS05,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+9/MS04,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+9/MS03,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+9/MS02,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+9/MS01,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Chandola Depot,B,BRTS
+9/SM03,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM04,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM05,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM06,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM07,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM08,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - TATA,B,BRTS
+9/SM09,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM10,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM11,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM12,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM13,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM14,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM15,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM16,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+9/SM17,Gota Vasantnagar Township - Maninagar,,15/02/2023 00:00:00,15/02/2024 23:59:59,Naranpura Depot - AL,B,BRTS
+201/RN04,R.T.O-R.T.O(Anti-Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+101/RK03,R.T.O-R.T.O(Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+101/RK02,R.T.O-R.T.O(Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+201/RN03,R.T.O-R.T.O(Anti-Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+101/RK01,R.T.O-R.T.O(Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+101/RK04,R.T.O-R.T.O(Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+201/RN05,R.T.O-R.T.O(Anti-Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+101/RK05,R.T.O-R.T.O(Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+101/RK06,R.T.O-R.T.O(Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+201/RN02,R.T.O-R.T.O(Anti-Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+101/RK07,R.T.O-R.T.O(Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+101/RK08,R.T.O-R.T.O(Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+201/RN01,R.T.O-R.T.O(Anti-Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+201/RN06,R.T.O-R.T.O(Anti-Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+201/RN07,R.T.O-R.T.O(Anti-Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
+201/RN08,R.T.O-R.T.O(Anti-Circular),,15/02/2023 00:00:00,15/02/2024 23:59:59,Ranip Depot - AL,B,BRTS
